@@ -35,7 +35,7 @@ public class star {
                 System.out.println("Capricorn");
             }
             else {
-            System.out.println("error");
+            System.out.println("Error");
         }
     }
 }
