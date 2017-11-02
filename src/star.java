@@ -11,7 +11,7 @@ public class star {
         //if ((m >= 0 && m <= 12) || (d >= 1 && d <= 31)) {
             if (m == 1 && d >= 21 && d <= 31 || m == 2 && d >= 1 && d <= 18) {
                 System.out.println("Aquarius");
-            } else if (m == 2 && d >= 19 && d <= 30 || m == 3 && d >= 1 && d <= 20) {
+            } else if (m == 2 && d >= 19 && d <= 28|| m == 3 && d >= 1 && d <= 20) {
                 System.out.println("Pisces");
             } else if (m == 3 && d >= 21 && d <= 31 || m == 4 && d >= 1 && d <= 20) {
                 System.out.println("Aries");
